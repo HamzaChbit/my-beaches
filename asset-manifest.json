@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-beaches/static/css/main.6be29d0e.css",
+    "main.js": "/my-beaches/static/js/main.652e6a93.js",
+    "index.html": "/my-beaches/index.html",
+    "main.6be29d0e.css.map": "/my-beaches/static/css/main.6be29d0e.css.map",
+    "main.652e6a93.js.map": "/my-beaches/static/js/main.652e6a93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6be29d0e.css",
+    "static/js/main.652e6a93.js"
+  ]
+}
